@@ -1,0 +1,12 @@
+{
+    "phones": [
+        {
+            "phone1_INVALID": "+12345678900",
+            "phone2_VALID": "(562) 123-5698",
+            "phone3_VALID": "(325)019-5190",
+            "phone4_VALID": "2567459999",
+            "phone5_INVALID": "+1(325)658-7585",
+            "phone6_INVALID": "25674500"
+        }
+    ]
+}
