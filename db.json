@@ -6,9 +6,7 @@
             "phone3_VALID": "(325)019-5190",
             "phone4_VALID": "2567459999",
             "phone5_INVALID": "+1(325)658-7585",
-            "phone6_INVALID": "25674500",
-            "text_r_n": "12\r\n34 \r\n56",
-            "text_n": "12\n34 \n56"
+            "phone6_INVALID": "25674500"
         }
     ]
 }
